@@ -1,7 +1,7 @@
 ## Table of Contents  
 
-1. [Basic Queries](#basic-queries)(https://github.com/Elham-Rabbany/SQL-Prep/blob/main/1_SQL_Skills_Refresher/README.md#1-basic-queries)  
-2. [Data Aggregation](#data-aggregation)(https://github.com/Elham-Rabbany/SQL-Prep/blob/main/1_SQL_Skills_Refresher/README.md#2-data-aggregation)  
+1. [Basic Queries](https://github.com/Elham-Rabbany/SQL-Prep/blob/main/1_SQL_Skills_Refresher/README.md#1-basic-queries)  
+2. [Data Aggregation](https://github.com/Elham-Rabbany/SQL-Prep/blob/main/1_SQL_Skills_Refresher/README.md#2-data-aggregation)  
 3. [Joins and Relationships](https://github.com/Elham-Rabbany/SQL-Prep/blob/main/1_SQL_Skills_Refresher/README.md#3-joins-and-relationships)
 4. [Conditional Queries](https://github.com/Elham-Rabbany/SQL-Prep/blob/main/1_SQL_Skills_Refresher/README.md#4-conditional-queries)
 5. [Advanced Queries](https://github.com/Elham-Rabbany/SQL-Prep/blob/main/1_SQL_Skills_Refresher/README.md#5-advanced-queries) 
