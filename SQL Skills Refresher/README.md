@@ -1,3 +1,4 @@
+# SQL Skills Refresher
 ## Table of Contents  
 
 1. [Basic Queries](https://github.com/Elham-Rabbany/SQL-Prep/blob/main/1_SQL_Skills_Refresher/README.md#1-basic-queries)  
