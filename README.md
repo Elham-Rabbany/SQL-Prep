@@ -9,8 +9,8 @@ In today’s data-driven world, strong SQL proficiency is an essential skill for
 ## 📚 Topics Covered:
 
 1. **SQL Skills Refresher**  
-   - Basic queries, joins, and filtering.  
-   - Concepts Covered: `1_SQL_Skills_Refresher/`
+   - Basic queries, joins, and filtering,...  
+   - Sample solution: [0_sql_recapitulation_solutions.sql](1_SQL_Skills_Refresher/0_sql_recapitulation_solutions.sql)
 
 2. **SQL Maths**  
    - Aggregate functions, math operations, and calculations.  
