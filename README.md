@@ -15,7 +15,7 @@ In today’s data-driven world, strong SQL proficiency is an essential skill for
 
 ---
 
-### 2. [SQL Maths](SQL Maths/README.md)  
+### 2. [SQL Maths](https://github.com/Elham-Rabbany/SQL-Prep/tree/main/SQL%20Maths#readme) 
 - **What**: Learn to perform calculations, math operations, and use aggregate functions.  
 - **Skills**: Arithmetic operations (+, -, *, /), aggregate functions (SUM, AVG, MIN, MAX), rounding, and precision functions.  
 - **Code Examples**: [1.2_sql_maths_solutions.sql](SQL Maths/1.2_sql_maths_solutions.sql)  
